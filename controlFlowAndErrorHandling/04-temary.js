@@ -34,3 +34,10 @@ let num = 16;
 
 (num == 0) ? console.log('hello'): (num < 0) ? console.log('hi') : console.log('goodbye');
 
+let age = 22;
+
+(age >= 25) ? console.log('you can rent a car!') : (age >=21) ? console.log('yay you can drink') :
+(age >= 18) ? console.log('yay you can vote') : console.log('you are too young to do anything')
+
+
+
