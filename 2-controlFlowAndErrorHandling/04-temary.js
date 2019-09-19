@@ -39,5 +39,11 @@ let age = 22;
 (age >= 25) ? console.log('you can rent a car!') : (age >=21) ? console.log('yay you can drink') :
 (age >= 18) ? console.log('yay you can vote') : console.log('you are too young to do anything')
 
-
+// ternary
+let FB = 30;
+​
+(FB % 3 === 0 && FB % 5 === 0) ? console.log('Fizz Buzz')
+    : (FB % 5 === 0) ? console.log('Buzz')
+    : (FB % 3 === 0 ) ? console.log('Fizz')
+    :  console.log(FB)
 

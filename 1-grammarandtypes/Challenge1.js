@@ -6,5 +6,5 @@ let city = 'North Salem';
 let state = 'IN';
 let zipcode = 46165;
 
-console.log('firstname' + "lastname"  + 'houseNumber' + 'street' + 'city' + 'state' + 'zipcode')
+console.log('firstname' + 'lastname'  + 'houseNumber' + 'street' + 'city' + 'state' + 'zipcode')
 
