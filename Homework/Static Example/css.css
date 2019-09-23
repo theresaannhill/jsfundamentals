@@ -1,0 +1,22 @@
+body {
+    font-family: 'Tangerine', serif;
+    font-size: 80px;
+    text-shadow: 4px 4px 4px #aaa;
+    background: purple;
+    text-align: center;
+     
+  }
+
+  .mainDiv {
+      text-align: center
+              }
+
+  <link rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Font+Name">
+
+  .css-selector {
+    font-family: 'Font Name', serif;
+    }
+
+    <div style="font-family: 'Font Name', serif;">Your text</div>
+    

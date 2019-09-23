@@ -77,7 +77,7 @@ let spaceJam = {
         tDevil: 'Tasmanian Devil',
         bird: 'Tweety',
         cat: 'Sylvester',
-        pig: 'Porky Pig 
+        pig: 'Porky Pig'
     },
     nbaPlayers: {
         phoenixSuns: 'Charles Barkley',
