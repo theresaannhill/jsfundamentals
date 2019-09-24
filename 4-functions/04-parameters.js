@@ -11,7 +11,7 @@ zach('cheese pizza');
 
 function myName(fName, lName) {
     let fullName = `${fName} ${lName}`;
-    console.log(`Hello, my name is ${fullName`)
+    console.log(`Hello, my name is ${fullName}`)
 
 }
 
@@ -48,3 +48,21 @@ function myName(fName, lName) {
 myName('Zach', 'Maynard');
 myName('Jessica', 'Cooke');
 myName('Daniel', 'Lufcy');
+
+function myName(fName, lName) {
+    let fullName = `${fName} ${lName}`;
+    console.log(`Hello, my name is ${fullName}`)
+}
+​
+myName('Zach', 'Maynard');
+myName('Jessica', 'Cooke');
+myName('Daniel', 'Lufcy');
+
+function myname(fName, lName) {
+    let fullName = `${fName} ${lName}`;
+    console.log(`Hello, my name is ${fullName}`)
+}
+
+myname('Zach', 'Maynard');
+myname('Jessica', 'Cooke');
+myname('Daniel', 'Lufcy');

@@ -35,7 +35,7 @@ console.log("Movie Name:",favoriteMovie.nameOfMovie),
 console.log(favoriteMovie.runTime),
 console.log(favoriteMovie.characters.characterInfo.character),
 console.log(favoriteMovie.characters.characterInfo.character[1].name),
-console.log(favoriteMovie.characters.characterInfo.character[1].items.itemone)
+console.log(favoriteMovie.characters.characterInfo.character[1].items[0].itemone)
 
 
 
