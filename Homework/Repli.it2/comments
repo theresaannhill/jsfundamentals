@@ -1,0 +1,12 @@
+// fetch('https://swapi.co/api/people/0')
+  // .then(response => response.json)
+ //  .then(json => console.log(json))
+ //  .catch(error => console.log(error))
+
+  // const request = async () => {
+  //     const response = await fetch ('https://swapi.co/api/people/0')
+  //     const response = await response.json();
+   //    console.log(json);
+  // }
+
+  /* request () */

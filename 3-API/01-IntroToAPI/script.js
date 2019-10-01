@@ -65,8 +65,6 @@ function displayRockets(json) {
         spaceShip.appendChild(desc);
 
     })
-
-
 }
 
 

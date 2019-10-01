@@ -33,3 +33,30 @@ var checkTwice = function () {
 };
 
 checkTwice;
+
+var playDate = function (gift) {
+    return new Promise(
+        function (resolve, reject) {
+            var message = "Salutations fellow child I enjoy interacting with! I noticed you received posable plastic Batman figurine during the Y ultide season.  What do you think of my new "
+            + gift.brand + ' ' + gift.item + '?';
+
+            resolve(message);
+            }
+    );
+    };
+
+    var checkTwice = function () {
+        console.log('before Christmas'); // log before
+        iCanHasGift
+        .then(playDate)
+        .then(function(fulfilled){
+            console.log(fulfilled);
+
+        })
+    .catch(function(error){
+        console.log(error)
+    });
+    console.log('after opening gifts'); // log after
+    }
+
+    checkTwice()
